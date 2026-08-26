@@ -1,0 +1,69 @@
+# Nirmidas Biotech
+
+> Nirmidas Biotech, Inc. (Mountain View, California; founded September 2013) develops and manufactures
+> diagnostics and imaging products built on near-infrared (NIR) fluorescence enhancement. Its patented
+> plasmonic gold (pGOLD) assay platform amplifies biological detection signals on gold-coated microarray
+> slides and 96-well microplates, paired with MidaScan / MidaScan-IR confocal scanners, MidaSpot rapid
+> antibody test kits, and the DeepVision, KingsVision, SockEye and AlbertSurgical in vivo NIR-I / NIR-II /
+> SWIR imaging systems, plus a catalog of NIR-II dyes and probes. Nirmidas manufactures under
+> ISO 13485:2016 and received FDA Emergency Use Authorization for its MidaSpot COVID-19 antibody
+> fingerstick test.
+>
+> NO API. As of 2026-08-26 Nirmidas Biotech publishes no public API, no developer portal, no SDK, no
+> webhooks and no machine-readable API contract of any kind. Everything it sells is a physical
+> instrument, kit or reagent, ordered through an inquiry form or by email. There is nothing here for an
+> agent to call; the correct action for a machine reader is to route a human to sales@nirmidas.com or
+> info@nirmidas.com.
+>
+> SITE ACCESS WARNING. The TLS certificate served on www.nirmidas.com and nirmidas.com expired on
+> 2026-06-20 and is issued by WoTrus CA Limited, whose roots are distrusted by major browser trust
+> stores. Standards-compliant HTTPS clients will fail to connect; every link below was verified on
+> 2026-08-26 with certificate verification disabled.
+
+## Company
+
+- [Nirmidas Biotech](https://www.nirmidas.com/): Company home page.
+- [Company Overview](https://nirmidas.com/company-overview/): Founding, JLABS / QB3 / StartX Med / MIT ILP affiliations, pGOLD and NIR-II platform description.
+- [Company Culture](https://nirmidas.com/company-culture/): Team and values.
+- [Contact Us](https://nirmidas.com/contact-us/): Mountain View address; info@nirmidas.com, support@nirmidas.com.
+
+## Products
+
+- [Shop](https://nirmidas.com/shop/): Full product catalog by part number, ordered by inquiry form or email. No published prices.
+- [Diagnostics Products](https://nirmidas.com/biotech-diagnostics-products/): pGOLD assays, pGOLD slides, gold-coated 96-well microplates, MidaScan confocal scanners.
+- [pGOLD Slides and Assay Platform](https://nirmidas.com/biotech-diagnostics-products/pgold-slides-and-pgold-assay-platform/): Plasmonic gold microarray slides (NBPG-0005A/B/C).
+- [Gold Coated 96 Well Microplates](https://nirmidas.com/biotech-diagnostics-products/gold-coated-96-well-microplates/): NBPG-0014 / NBPG-0015.
+- [MidaScan and MidaScan-IR Confocal Scanners](https://nirmidas.com/biotech-diagnostics-products/midascan-and-MidaScan--ir-confocal-scanners/): NBMS-0001 / NBMS-0002 microarray readers.
+- [pGOLD High Accuracy Multiplexed Assays](https://nirmidas.com/biotech-diagnostics-products/pgold-high-accuracy-multiplexed-assays/): Multiplexed antibody, avidity and neutralization assays.
+- [Imaging Products](https://nirmidas.com/biotech-imaging-products/): In vivo small-animal and surgical NIR imaging systems.
+- [DeepVision NIR-I/NIR-II/SWIR Imaging System](https://nirmidas.com/biotech-imaging-products/deep-vision-fluorescence-nir-small-animal-imaging-system/): NBIM-0001.
+- [KingsVision Bioluminescence/Fluorescence Imaging System](https://nirmidas.com/biotech-imaging-products/kings-vision-bioluminescence-fluorescence-nir-small-animal-imaging-system/): NBIM-0002.
+- [NIR-II and NIR-I-II Dyes and Probes](https://nirmidas.com/biotech-imaging-products/nir-ii-dye-and-nir-i-ii-dye/): IR-E1050, IR-T1050, IR-12N, IR-DCNP, AuMC and related probes.
+
+## News and Publications
+
+- [Company News](https://nirmidas.com/news/company-news/): Dated company announcements, most recently 2023-04-13.
+- [Industry News](https://nirmidas.com/news/industry-news/): Sector news roundup.
+- [Academic Papers](https://nirmidas.com/publications/academic-papers/): Peer-reviewed publications on the pGOLD platform and NIR-II imaging.
+- [Product Release](https://nirmidas.com/publications/product-release/): Product release notes.
+
+## Support and Terms
+
+- [FAQs](https://nirmidas.com/faqs/): Product questions on pGOLD slides, assays and imaging systems.
+- [Terms and Conditions of Sale (PDF)](https://nirmidas.com/ueditor/php/upload/file/20220118/1642497988201475.pdf): Commercial terms for product purchase. There are no API terms of service.
+- [Subscribe](https://nirmidas.com/Subscribe/): Mailing-list signup. This is not an account or developer signup.
+
+## Social
+
+- [LinkedIn](https://www.linkedin.com/company/nirmidas-biotech-inc-)
+- [X / Twitter](https://x.com/nirmidas)
+- [Instagram](https://instagram.com/nirmidasbiotech/)
+
+## What does not exist
+
+- No developer portal, API reference, or getting-started guide. `/api`, `/developers`, `/docs` and `/documentation` all return HTTP 404.
+- No OpenAPI, Swagger, GraphQL, AsyncAPI, gRPC or WSDL contract. `/openapi.json`, `/openapi.yaml`, `/swagger.json`, `/v1/openapi.json`, `/api-docs`, `/redoc` and `/graphql` all return HTTP 404.
+- No MCP server and no A2A agent card. `/.well-known/agent-card.json` and `/.well-known/agent.json` return HTTP 404 on both hosts.
+- No `/.well-known/` documents of any kind — security.txt, openid-configuration, oauth-authorization-server, api-catalog and ai-plugin.json all return HTTP 404.
+- No first-party SDK or package on npm, PyPI, or any other registry; no GitHub organization (GitHub user/org search for "nirmidas" returns 0 results).
+- No published pricing, plans, rate limits, status page, changelog or CLI.

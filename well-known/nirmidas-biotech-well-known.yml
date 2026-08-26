@@ -1,0 +1,57 @@
+generated: '2026-08-26'
+method: probed
+source: live HTTPS probes of every Nirmidas Biotech web host, 2026-08-26
+note: >-
+  Every /.well-known/ path probed returned a clean HTTP 404 from the origin (a real 404 body, not a
+  single-page-app catch-all). Nirmidas Biotech publishes NO well-known documents. No WellKnown or
+  SecurityTxt pointer is emitted in apis.yml, because this file records an absence, not a presence.
+  All probes required TLS verification to be disabled: the certificate served on both hosts
+  (CN=www.nirmidas.com, issuer WoTrus DV Server CA) expired 2026-06-20, so a standards-compliant
+  client cannot complete a handshake at all — recorded in security/nirmidas-biotech-domain-security.yml.
+hosts:
+- host: www.nirmidas.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
+- host: nirmidas.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
