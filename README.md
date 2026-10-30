@@ -64,5 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nirmidas Biotech is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Nirmidas Biotech, Inc. is a Mountain View, California life-science company founded in September 2013 that develops and manufactures diagnostics and imaging products built on near-infrared (NIR) fluorescence enhancement. Its patented plasmonic gold (pGOLD) assay platform boosts biological detection signals on gold-coated microarray slides and 96-well microplates, and is paired with the MidaScan and MidaScan-IR confocal scanners, MidaSpot rapid antibody test kits, and the DeepVision, KingsVision, SockEye and AlbertSurgical in vivo NIR-I / NIR-II / SWIR imaging systems, plus a catalog of NIR-II dyes and probes. The company is a member of Janssen Labs (JLABS), QB3, Stanford StartX Med and the MIT Industrial Liaison Program, manufactures under ISO 13485:2016, and received FDA Emergency Use Authorization for its MidaSpot COVID-19 antibody fingerstick test. Products are sold as physical instruments, kits and reagents through an inquiry-based storefront; Nirmidas publishes no developer program, no public API, and no machine-readable API contract.
+
+**Areas:** Company · Biotechnology · Diagnostics · Life Sciences · Medical Imaging · In Vitro Diagnostics · Laboratory Instruments · Research Reagents · Nanotechnology
+
+## Nirmidas Biotech on APIs.io
+
+Everything profiled for Nirmidas Biotech is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nirmidas-biotech/](https://apis.io/providers/nirmidas-biotech/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nirmidas Biotech Domain Security](https://apis.io/security/nirmidas-biotech/nirmidas-biotech-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nirmidas.com/)
+- [Support](https://nirmidas.com/contact-us/)
+- [Blog](https://nirmidas.com/news/company-news/)
+- [Terms of service](https://nirmidas.com/ueditor/php/upload/file/20220118/1642497988201475.pdf)
+
+## API Evangelist rating
+
+**Kin Score 6.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 3.6 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 6.3** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nirmidas-biotech/](https://apis.io/providers/nirmidas-biotech/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nirmidas Biotech: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nirmidas-biotech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
